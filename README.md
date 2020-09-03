@@ -9,9 +9,9 @@ To complete the life demo, still need to integrate ISC (CMOS) input.
 TODO...
 
 # How to do
-git clone https://github.com/s887432/zbar_softpack zbar_test<hr>
-copy zbar_test $SOFTPACK_PATH/examples/<hr>
-cd $SOFTPACK_PATH/examples/zbar_test<hr>
-make TARGET=sama5d27-som1-ek<hr>
+git clone https://github.com/s887432/zbar_softpack zbar_test<br>
+copy zbar_test $SOFTPACK_PATH/examples/<br>
+cd $SOFTPACK_PATH/examples/zbar_test<br>
+make TARGET=sama5d27-som1-ek<br>
 
 Patrick Lin @ Taipei, Taiwan
